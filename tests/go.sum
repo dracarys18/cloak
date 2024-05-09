@@ -1,5 +1,7 @@
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/dracarys18/cloak v0.0.0-20240509124326-c4634250a7f8 h1:C8cZeZ9lO5NQZw1TyWDIY1Hh2UFeTUNBg50yzNy4Sso=
+github.com/dracarys18/cloak v0.0.0-20240509124326-c4634250a7f8/go.mod h1:vzS9O+XXGCzbsWKfiND4ZsEHF1StT2F55hS7sV15cBc=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsTg=
